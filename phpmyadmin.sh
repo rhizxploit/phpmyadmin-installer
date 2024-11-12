@@ -1,3 +1,4 @@
+#created by rhizexploit
 #!/bin/bash
 
 # Prompt for domain input
